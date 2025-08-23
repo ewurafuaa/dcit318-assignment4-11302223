@@ -112,5 +112,15 @@ namespace MedicalAppointmentApp
         // Dummy methods so Designer stops complaining
         private void label1_Click(object sender, EventArgs e) { }
         private void label2_Click(object sender, EventArgs e) { }
+
+        private void label_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnBook_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

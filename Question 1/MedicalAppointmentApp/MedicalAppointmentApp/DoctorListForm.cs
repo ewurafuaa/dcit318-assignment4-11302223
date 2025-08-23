@@ -59,5 +59,10 @@ namespace MedicalAppointmentApp
         private void dgvDoctors_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
